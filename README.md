@@ -1,2 +1,2 @@
 # BH-PCMLAI
-Will a Customer Accept the Coupon?
+Public Facing Repository for the BerkeleyHaas machine learning and artificial intelligence project
